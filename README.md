@@ -8,13 +8,12 @@ A clean NumPy implementation of the KNN classification algorithm with **three di
 
 Given two classes of points (Red and Blue) distributed along noisy square-root curves, the notebook classifies every point in a dense grid using three KNN strategies and plots the resulting decision boundaries side by side.
 
--________________________________________________________________________________________________-
+
 | Strategy                | k | Rule                                                             |
 |-------------------------|---|------------------------------------------------------------------|
 | Nearest Neighbor        | 1 | Assign the class of the single closest point                     |
 | KNN Majority Vote       | 5 | Majority class among the 5 nearest neighbors                     |
 | KNN Average Distance    | 5 | Assign the class whose 5 nearest neighbors are on average closer |
-|_________________________|___|__________________________________________________________________|
 ---
 
 ## Project Structure
