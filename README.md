@@ -50,7 +50,7 @@ Run all cells top to bottom. The final cell produces a 2×2 comparison plot.
 
 ## Results
 
-![KNN Decision Boundaries](output.png)
+![NN-From-Scratch](output.png)
 
 The notebook generates a 2×2 figure comparing:
 
